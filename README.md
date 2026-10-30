@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OwnGen Digital Solar
+
+OwnGen Digital Solar is an early-stage digital energy platform focused on making off-site solar capacity accessible through a simple digital experience.
+
+The project is currently being developed as a Next.js web platform with plans for solar project discovery, savings calculation, customer onboarding, digital solar reservations, generation tracking, and energy credit management.This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
